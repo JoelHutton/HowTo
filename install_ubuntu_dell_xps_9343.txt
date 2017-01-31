@@ -1,0 +1,12 @@
+install using ubuntu16.04 live usb, ubuntu gnome and other versions of ubuntu are buggy
+install chrome 
+sudo apt-get install vim git
+mkdir ~/git
+cd git
+git clone https://github.com/JoelHutton/setup.git
+sudo ./setup
+enable natural scrolling
+clone gits
+set /usr/bin/zsh in terminal->edit->profile
+set file->preferences->open in tab in terminal
+enable natural scrolling and tap to click in system settings
