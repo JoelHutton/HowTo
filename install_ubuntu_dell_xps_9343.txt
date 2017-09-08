@@ -5,7 +5,6 @@ mkdir ~/git
 cd git
 git clone https://github.com/JoelHutton/setup.git
 sudo ./setup
-enable natural scrolling
 clone gits
 set /usr/bin/zsh in terminal->edit->profile
 set file->preferences->open in tab in terminal
